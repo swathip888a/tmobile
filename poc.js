@@ -82,8 +82,8 @@
       ">
         <!-- Logo -->
         <div style="margin-bottom: 30px;">
-          <span style="font-size: 28px; font-weight: bold; color: #E20074;">MIND</span>
-          <span style="font-size: 28px; font-weight: bold; color: #333;">share</span>
+          <span style="font-size: 28px; font-weight: bold; color: #E20074;">T</span>
+          <span style="font-size: 28px; font-weight: bold; color: #333;">Mobile</span>
         </div>
 
         <!-- FORM -->
@@ -159,7 +159,7 @@
 
           <!-- Contact AM -->
           <p style="color: #777; font-size: 13px; margin: 0;">
-            Don't have a MINDshare platform account?<br>
+            Don't have a Tmobile platform account?<br>
             <strong>Please reach out to your account manager.</strong>
           </p>
 
